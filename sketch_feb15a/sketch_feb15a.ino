@@ -11,7 +11,6 @@ const int sag_i = 6;
 const int sag_g = 7;       
 
 
-
 int hiz = 70;
 float KP = 0.01;
 float KD = 0.1;
